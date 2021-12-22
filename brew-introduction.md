@@ -6,7 +6,7 @@ saya sendiri menggunakan homebrew untuk melakukan instalasi aplikasi seperti net
 installasi cukup mudah tinggal buka terminal dan jalankan command, jika sudah tinggal ikutin deh step yang di berikan oleh brewnya nanti di terminal.
 ``` 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-``
+```
 
 ## penggunaan
 
